@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ujjwaljain
 - 👀 I’m interested in web development & open source
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning AI/Ml and FullStack Development
 - 💞️I’m a begineer in open source but i  am dedicated ready to put all the necessary efforts
 - 📫 Lets connect on linkedin - https://www.linkedin.com/in/ujjwal-jain-306b60323/
 - 😄 Pronouns: HE/HIM
