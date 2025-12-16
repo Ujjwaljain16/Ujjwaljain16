@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a full-stack developer who **loves building real-world systems that solve actual problems**. My sweet spot is backend architecture—databases, APIs, authentication, and making things scale gracefully. I don't just write code; I build polished, production-ready applications.
+I'm a full-stack developer who **loves building real-world systems that solve actual problems**. My sweet spot is backend architecture , databases, APIs, authentication, and making things scale gracefully. I don't just write code; I build polished, production-ready applications.
 
 - 🔨 Built **4 production-grade projects** with 90+ APIs, multi-tenant architecture, and enterprise security
 - 🧠 Deep expertise in **database design, clean architecture, and scalable system patterns**
@@ -28,6 +28,7 @@ I'm a full-stack developer who **loves building real-world systems that solve ac
 - 🚀 **Fuze** — Extending this to other platforms like youtube and instagram
 - 📚 Building microservices architecture in **Go** for learning distributed systems
 - 🧪 Exploring **Spring Boot** and enterprise Java patterns
+- 🤝Contributing to Open-Source Repositories like Appwrite , Vitest
 
 ---
 
@@ -58,6 +59,9 @@ I'm a full-stack developer who **loves building real-world systems that solve ac
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
 
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,9 +73,9 @@ I'm a full-stack developer who **loves building real-world systems that solve ac
 ## 🏆 Featured Projects
 
 ### 🔐 [CampusSync](https://github.com/Ujjwaljain16/CampusSync) — Enterprise Certificate Management Platform
-**Problem:** Educational institutions struggle with certificate fraud, manual verification processes, and lack of standardized digital credentials.
+**Problem:** Educational institutions struggle with certificate fraud, manual verification processes, and smooth placement process.
 
-**Solution:** A Next-generation SaaS platform that automates certificate lifecycle management with blockchain-level security.
+**Solution:** A Next-generation SaaS platform that automates certificate lifecycle management and college placements .
 
 **Tech Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini AI` `W3C Standards`
 
