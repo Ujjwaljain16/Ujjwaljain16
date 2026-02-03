@@ -16,7 +16,7 @@
 
 I'm a full-stack developer who **loves building real-world systems that solve actual problems**. My sweet spot is backend architecture , databases, APIs, authentication, and making things scale gracefully. I don't just write code; I build polished, production-ready applications.
 
-- 🔨 Built **4 production-grade projects** with 90+ APIs, multi-tenant architecture, and enterprise security
+- 🔨 Built **production-grade projects** with 90+ APIs, multi-tenant architecture, and enterprise security
 - 🧠 Deep expertise in **database design, clean architecture, and scalable system patterns**
 - 🎯 Currently learning **Go, Spring Boot, and distributed systems**
 - 💡 I believe in **shipping real products**, not just tutorials
