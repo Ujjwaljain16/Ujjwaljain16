@@ -16,9 +16,9 @@
 
 I'm a full-stack developer who **loves building real-world systems that solve actual problems**. My sweet spot is backend architecture , databases, APIs, authentication, and making things scale gracefully. I don't just write code; I build polished, production-ready applications.
 
-- 🔨 Built **production-grade projects** with 90+ APIs, multi-tenant architecture, and enterprise security
-- 🧠 Deep expertise in **database design, clean architecture, and scalable system patterns**
-- 🎯 Currently learning **Go, Spring Boot, and distributed systems**
+- 🔨 Built **production-grade projects** with 90+ APIs, multi-tenant architecture, and security
+- 🧠 Designed and implemented relational databases (MySQL / PostgreSQL) with proper schema normalization, indexing for performance, and relationships
+- 🎯 Currently learning **Go, Spring Boot, and System Design**
 - 💡 I believe in **shipping real products**, not just tutorials
 
 ---
@@ -150,9 +150,9 @@ I'm a full-stack developer who **loves building real-world systems that solve ac
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujjwaljain16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ujjwaljain16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwaljain16&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ujjwaljain16&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
