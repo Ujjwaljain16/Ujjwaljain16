@@ -1,190 +1,177 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ujjwal+Jain;Backend+Engineer+in+Progress;Designing+Scalable+Systems+%26+Clean+APIs" alt="Typing SVG" />
   
-# Hi, I'm Ujjwal Jain 👋
+  <br/><br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-jain-306b60323/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainujjwal1609@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjwaljain16)
 
-### Full-Stack Developer | Backend Enthusiast | Building Systems That Scale
+  <br/>
+  <i>Computer Science undergrad • OSS Contributor</i>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-jain-306b60323/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainujjwal1609@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjwaljain16)
+---
+
+## About Me
+
+I'm a Computer Science student who genuinely enjoys building systems from the ground up.
+
+Backend is where I feel most at home - designing APIs, structuring databases properly, thinking about edge cases, security, and performance before they become problems.
+
+Focused on backend systems, database design, and production-grade architecture rather than demo projects.
+
+I like clean architecture.  
+I like scalable systems.  
+I like understanding *why* something works not just making it work.
+
+Currently looking for **Summer 2026 internships** where I can learn from strong engineers, contribute meaningfully, and grow into a solid software engineer.
+
+---
+
+## What I Care About
+
+- Writing backend code that is maintainable and production-ready  
+- Designing relational databases properly (indexes, normalization, constraints)  
+- Clean API contracts and thoughtful system design  
+- Security, performance, and observability from day one  
+- Shipping real products not just tutorial demos  
+- Prefer understanding system trade-offs (consistency, latency, scalability) over chasing frameworks  
+
+---
+
+## Currently Exploring
+
+- Building microservices in Go to understand distributed systems deeply  
+- Learning Spring Boot and enterprise backend patterns  
+- Strengthening system design fundamentals  
+- Contributing to open-source projects when I can  
+
+---
+
+## Tech I Work With
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript)
+![Go](https://img.shields.io/badge/Go-1E1E1E?style=for-the-badge&logo=go)
+
+### Frontend
+![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss)
+![React Native](https://img.shields.io/badge/React_Native-1E1E1E?style=for-the-badge&logo=react)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-1E1E1E?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-1E1E1E?style=for-the-badge&logo=flask)
+![Spring](https://img.shields.io/badge/Spring-1E1E1E?style=for-the-badge&logo=spring)
+
+### Databases & More
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-1E1E1E?style=for-the-badge&logo=redis)
+![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-1E1E1E?style=for-the-badge&logo=postman)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Projects I’m Proud Of
 
-I'm a full-stack developer who **loves building real-world systems that solve actual problems**. My sweet spot is backend architecture , databases, APIs, authentication, and making things scale gracefully. I don't just write code; I build polished, production-ready applications.
+###  HTTP Server - From Scratch
 
-- 🔨 Built **production-grade projects** with 90+ APIs, multi-tenant architecture, and security
-- 🧠 Designed and implemented relational databases (MySQL / PostgreSQL) with proper schema normalization, indexing for performance, and relationships
-- 🎯 Currently learning **Go, Spring Boot, and System Design**
-- 💡 I believe in **shipping real products**, not just tutorials
+A multi-threaded HTTP/1.1 server built using raw sockets to deeply understand networking and concurrency.
 
----
+**Highlights**
+- Persistent connections with concurrent request handling  
+- Rate limiting, path traversal protection, CORS safeguards  
+- Prometheus metrics + structured logging for observability  
 
-## 🔥 What I'm Working On
-
-- 🚀 **Fuze** — Extending this to other platforms like youtube and instagram
-- 📚 Building microservices architecture in **Go** for learning distributed systems
-- 🧪 Exploring **Spring Boot** and enterprise Java patterns
-- 🤝Contributing to Open-Source Repositories like Appwrite , Vitest
+Designed to explore performance trade-offs and low-level backend fundamentals.
 
 ---
 
-## 🛠️ Tech Stack
+###  migrateDB - Safe & Modern DB Migration Tool
 
-### **Core Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+A lightweight TypeScript-based migration system focused on reliability and structured schema evolution.
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Highlights**
+- Transactional safety with automatic rollback  
+- Dependency resolution via topological sorting  
+- Migration locking & checksum verification  
+- Multi-database support  
 
-### **Backend & Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-
-
-### **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Built to understand infrastructure tooling beyond application logic.
 
 ---
 
-## 🏆 Featured Projects
+###  CampusSync - Enterprise Certificate & Placement Platform
 
-### 🔐 [CampusSync](https://github.com/Ujjwaljain16/CampusSync) — Enterprise Certificate Management Platform
-**Problem:** Educational institutions struggle with certificate fraud, manual verification processes, and smooth placement process.
+A multi-tenant platform designed to reduce certificate fraud and simplify placement workflows.
 
-**Solution:** A Next-generation SaaS platform that automates certificate lifecycle management and college placements .
+**Highlights**
+- AI OCR with high-accuracy extraction  
+- Cryptographic signatures using Ed25519  
+- Row-level security for strict tenant isolation  
+- 90+ production-grade REST APIs with real-time features  
 
-**Tech Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini AI` `W3C Standards`
-
-**Key Features:**
-- 🤖 AI-powered certificate extraction using Gemini + Tesseract OCR with 95%+ accuracy
-- 🔐 W3C Verifiable Credentials with Ed25519 cryptographic signatures
-- 🏢 Multi-tenant Row-Level Security ensuring complete data isolation
-- ⚡ 90+ optimized REST APIs with real-time updates and caching
-- 📊 Admin dashboard with analytics and bulk operations
-
-**Impact:** Reduces verification time from days to seconds, eliminates certificate fraud
+Focused heavily on data integrity, security, and scalable architecture.
 
 ---
 
-### 🧠 [Fuze](https://github.com/Ujjwaljain16/Fuze) — AI-Powered Knowledge Intelligence Platform
-**Problem:** Knowledge workers lose 30% of productivity searching for information scattered across platforms.
+###  Fuze - AI Knowledge Intelligence Hub
 
-**Solution:** A unified knowledge hub that connects information across your digital workspace.
+An intelligent system that improves information retrieval across multiple sources.
 
-**Tech Stack:** `Flask` `React` `PostgreSQL` `Vector Search` `Knowledge Graphs`
+**Highlights**
+- Semantic search using vector embeddings  
+- Automated knowledge graph generation  
+- Context-aware recommendation engine  
 
-**Key Features:**
-- 🔍 Semantic search that understands context, not just keywords
-- 🕸️ Automatic knowledge graph linking related concepts across projects
-- 📚 Multi-platform capture (LinkedIn, Chrome, mobile, any URL)
-- 🎯 Context-aware recommendations powered by ML
-- 🔗 Smart project-knowledge associations
-
-**Impact:** 40% faster information retrieval, reduced context switching
+Designed with performance optimization and meaningful information discovery in mind.
 
 ---
-
-### 🔄 [migrateDB](https://github.com/Ujjwaljain16/migratedb) — Production-Grade Database Migration Tool
-**Problem:** Teams need reliable, safe database migrations across multiple environments and database types.
-
-**Solution:** A TypeScript-native migration framework with enterprise-grade safety features.
-
-**Tech Stack:** `TypeScript` `PostgreSQL` `MySQL` `SQLite` `CLI`
-
-**Key Features:**
-- 🗄️ Multi-database support (PostgreSQL, MySQL/MariaDB, SQLite)
-- 🔒 Transaction safety with automatic rollback on failure
-- 🔐 Migration locking prevents concurrent execution conflicts
-- ✅ Checksum verification ensures migration integrity
-- 📊 Dependency resolution with topological sorting
-- 🛠️ Rich CLI with dry-run, status, and environment-specific configs
-
-**Impact:** Zero-downtime migrations, 100% rollback success rate
-
----
-
-### 🌐 [HttpServer](https://github.com/Ujjwaljain16/HttpServer) — Production HTTP Server from Scratch
-**Problem:** Understanding how web servers really work under the hood.
-
-**Solution:** A fully-featured HTTP/1.1 server built from raw sockets—no frameworks.
-
-**Tech Stack:** `Python` `Threading` `Prometheus` `Low-level Networking`
-
-**Key Features:**
-- 🌐 Complete HTTP/1.1 implementation with persistent connections
-- ⚡ Multi-threaded architecture handling 500+ requests/second
-- 🔒 Enterprise security (path traversal protection, rate limiting, CORS)
-- 📊 Production observability (Prometheus metrics, structured logging)
-- 🛡️ Real-time security dashboard and audit trails
-- 🔐 Thread pool management with bounded concurrency
-
-**Impact:** Learned TCP/IP internals, threading models, and production concerns
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ujjwaljain16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ujjwaljain16&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ujjwaljain16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ujjwaljain16&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 💼 What I Bring to the Table
+## Engineering Approach
 
-✅ **Backend Architecture** — Database design, API development, authentication, security  
-✅ **Full-Stack Development** — React/Next.js frontend + Node/Flask/FastAPI backend  
-✅ **Production Mindset** — Clean code, testing, documentation, scalability from day one  
-✅ **Problem Solver** — I build solutions, not just features  
-✅ **Fast Learner** — Picked up TypeScript, Go, and system design patterns independently  
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in:
-- 💼 **Backend/Full-stack opportunities** where I can build impactful products
-- 🚀 **Open source collaboration** on tools, frameworks, or developer productivity
-- 💡 **Technical discussions** about databases, system design, or architecture patterns
-
-📧 **Email:** jainujjwal1609@gmail.com  
-💼 **LinkedIn:** [Ujjwal Jain](https://www.linkedin.com/in/ujjwal-jain-306b60323/)  
-🐙 **GitHub:** [@Ujjwaljain16](https://github.com/Ujjwaljain16)
+- Backend-first thinking with strong full-stack delivery  
+- Focus on clean architecture, security, and long-term maintainability  
+- Strong database fundamentals and system design curiosity  
+- Comfortable exploring unfamiliar systems through documentation and experimentation  
 
 ---
 
-<div align="center">
+## Let’s Connect
 
-### ⭐ "Building systems that matter, one commit at a time"
+📧 **jainujjwal1609@gmail.com**  
+💼 [LinkedIn → Ujjwal Jain](https://www.linkedin.com/in/ujjwal-jain-306b60323/)  
+🐙 [@Ujjwaljain16](https://github.com/Ujjwaljain16)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ujjwaljain16.Ujjwaljain16)
+---
 
+<div align="center"> 
+  <br/>
+  One clean commit at a time.
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ujjwaljain16.Ujjwaljain16) 
 </div>
