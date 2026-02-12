@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ujjwal+Jain;Backend+Engineer+in+Progress;Designing+Scalable+Systems+%26+Clean+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ujjwal+Jain;CS+Undergrad+%7C+Backend-Focused+Engineer;Designing+Scalable+Systems+%26+Clean+APIs" alt="Typing SVG" />
   
   <br/><br/>
   
@@ -15,34 +15,32 @@
 
 ## About Me
 
-I'm a Computer Science student who genuinely enjoys building systems from the ground up.
+I'm a Computer Science student who genuinely enjoys building systems from the ground up especially the data models, edge cases, failure handling, and performance trade-offs.
 
-Backend is where I feel most at home - designing APIs, structuring databases properly, thinking about edge cases, security, and performance before they become problems.
+Backend is where I feel most at home designing APIs, structuring databases carefully, and thinking about scalability before it becomes a problem.
 
-Focused on backend systems, database design, and production-grade architecture rather than demo projects.
+Focused on backend systems, database design, and architecture rather than demo projects.
 
-I like clean architecture.  
-I like scalable systems.  
-I like understanding *why* something works not just making it work.
+I care about understanding *why* systems behave the way they do not just making features work.
 
-Currently looking for **Summer 2026 internships** where I can learn from strong engineers, contribute meaningfully, and grow into a solid software engineer.
+Currently looking for **Summer 2026 internships** where I can learn from strong engineers, contribute meaningfully, and grow into a solid backend developer.
 
 ---
 
 ## What I Care About
 
-- Writing backend code that is maintainable and production-ready  
-- Designing relational databases properly (indexes, normalization, constraints)  
-- Clean API contracts and thoughtful system design  
-- Security, performance, and observability from day one  
-- Shipping real products not just tutorial demos  
-- Prefer understanding system trade-offs (consistency, latency, scalability) over chasing frameworks  
+- Writing backend code that is maintainable, observable, and resilient  
+- Designing relational schemas with proper indexing and constraints  
+- Clear API contracts and predictable system behavior  
+- Security, performance, and operational visibility from day one  
+- Shipping real systems — not just tutorial demos  
+- Understanding trade-offs between consistency, latency, and scalability  
 
 ---
 
 ## Currently Exploring
 
-- Building microservices in Go to understand distributed systems deeply  
+- Building microservices in Go to better understand distributed systems behavior  
 - Learning Spring Boot and enterprise backend patterns  
 - Strengthening system design fundamentals  
 - Contributing to open-source projects when I can  
@@ -91,22 +89,22 @@ Currently looking for **Summer 2026 internships** where I can learn from strong 
 
 ## Projects I’m Proud Of
 
-###  HTTP Server - From Scratch
+### HTTP Server - From Scratch
 
-A multi-threaded HTTP/1.1 server built using raw sockets to deeply understand networking and concurrency.
+A multi-threaded HTTP/1.1 server built using raw sockets to understand concurrency, request lifecycles, and low-level networking behavior.
 
 **Highlights**
 - Persistent connections with concurrent request handling  
-- Rate limiting, path traversal protection, CORS safeguards  
+- Rate limiting, path traversal protection, and CORS safeguards  
 - Prometheus metrics + structured logging for observability  
 
-Designed to explore performance trade-offs and low-level backend fundamentals.
+Built to explore real-world performance trade-offs and backend fundamentals beyond frameworks.
 
 ---
 
-###  migrateDB - Safe & Modern DB Migration Tool
+### migrateDB - Safe & Modern DB Migration Tool
 
-A lightweight TypeScript-based migration system focused on reliability and structured schema evolution.
+A lightweight TypeScript-based migration system focused on reliability and safe schema evolution.
 
 **Highlights**
 - Transactional safety with automatic rollback  
@@ -114,11 +112,11 @@ A lightweight TypeScript-based migration system focused on reliability and struc
 - Migration locking & checksum verification  
 - Multi-database support  
 
-Built to understand infrastructure tooling beyond application logic.
+Designed to understand infrastructure tooling and failure scenarios in database workflows.
 
 ---
 
-###  CampusSync - Enterprise Certificate & Placement Platform
+### CampusSync - Enterprise Certificate & Placement Platform
 
 A multi-tenant platform designed to reduce certificate fraud and simplify placement workflows.
 
@@ -128,11 +126,11 @@ A multi-tenant platform designed to reduce certificate fraud and simplify placem
 - Row-level security for strict tenant isolation  
 - 90+ production-grade REST APIs with real-time features  
 
-Focused heavily on data integrity, security, and scalable architecture.
+Focused heavily on data integrity, security, and scalable backend architecture.
 
 ---
 
-###  Fuze - AI Knowledge Intelligence Hub
+### Fuze - AI Knowledge Intelligence Hub
 
 An intelligent system that improves information retrieval across multiple sources.
 
@@ -141,7 +139,7 @@ An intelligent system that improves information retrieval across multiple source
 - Automated knowledge graph generation  
 - Context-aware recommendation engine  
 
-Designed with performance optimization and meaningful information discovery in mind.
+Designed with performance optimization and structured knowledge discovery in mind.
 
 ---
 
@@ -155,9 +153,9 @@ Designed with performance optimization and meaningful information discovery in m
 ## Engineering Approach
 
 - Backend-first thinking with strong full-stack delivery  
-- Focus on clean architecture, security, and long-term maintainability  
-- Strong database fundamentals and system design curiosity  
-- Comfortable exploring unfamiliar systems through documentation and experimentation  
+- Bias toward reliability, clarity, and long-term maintainability  
+- Strong database fundamentals and growing system design intuition  
+- Comfortable reading docs deeply and exploring unfamiliar systems  
 
 ---
 
@@ -171,7 +169,7 @@ Designed with performance optimization and meaningful information discovery in m
 
 <div align="center"> 
   <br/>
-  One clean commit at a time.
+  Building reliable systems, one thoughtful commit at a time.
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ujjwaljain16.Ujjwaljain16) 
 </div>
