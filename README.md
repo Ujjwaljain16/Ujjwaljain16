@@ -173,4 +173,5 @@ Built mainly to explore how retrieval systems and knowledge organization can wor
   Still learning, still building.
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ujjwaljain16.Ujjwaljain16) 
+[![](https://visitcount.itsvg.in/api?id=ujjwaljain16&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </div>
