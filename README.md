@@ -27,16 +27,6 @@ Currently looking for **Summer 2026 internships** where I can learn from strong 
 
 ---
 
-## What I Care About
-
-- Writing backend systems that stay maintainable as they grow
-- Designing relational schemas with thoughtful constraints and indexing
-- Clear API contracts and predictable system behavior
-- Building with security, performance, and observability in mind from the start
-- Understanding the trade-offs between consistency, latency, and scalability
-
----
-
 ## Currently Exploring
 
 - Building microservices in Go to better understand distributed systems behavior  
@@ -148,16 +138,6 @@ Built mainly to explore how retrieval systems and knowledge organization can wor
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ujjwaljain16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ujjwaljain16&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-## Engineering Approach
-
-- Prefer simple, reliable designs over clever ones  
-- Think carefully about data models and failure cases  
-- Try to understand systems deeply rather than rely only on frameworks  
-- Keep learning by building and reading real systems
-
 ---
 
 ## Let’s Connect
