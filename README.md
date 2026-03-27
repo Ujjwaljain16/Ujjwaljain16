@@ -30,8 +30,8 @@ Currently looking for **Summer 2026 internships** where I can learn from strong 
 ## Currently Exploring
 
 - Building microservices in Go to better understand distributed systems behavior  
-- Learning Spring Boot and enterprise backend patterns  
-- Strengthening system design fundamentals  
+- Diving deep into Database internals & architecture
+- Learning System Design (LLD + HLD)
 - Contributing to open-source projects when I can  
 
 ---
