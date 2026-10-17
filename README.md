@@ -23,6 +23,12 @@
 
 <br/><br/>
 
+<h3>stack</h3>
+
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,go,react,nextjs,tailwind,nodejs,express,fastapi,flask,spring,postgres,mysql,mongodb,redis,supabase,docker,git,prometheus,postman&perline=11&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
 <img src="./assets/footer.svg" width="100%" alt="still learning, still building" />
 
 </div>
