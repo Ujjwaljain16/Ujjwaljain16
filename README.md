@@ -47,7 +47,7 @@
 <tr>
 <td align="right" valign="middle" nowrap><b>AI &amp; Retrieval</b></td>
 <td align="left" valign="middle">
-<img src="https://img.shields.io/badge/Embeddings-121936?style=flat-square" alt="Embeddings" /> <img src="https://img.shields.io/badge/MCP-121936?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/LLM%20APIs-121936?style=flat-square" alt="LLM APIs" /> <img src="https://img.shields.io/badge/LangChain-121936?style=flat-square" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-121936?style=flat-square" alt="LangGraph" />
+<img src="./assets/icon-langchain.svg" width="48" height="48" alt="LangChain" /> <img src="./assets/icon-langgraph.svg" width="48" height="48" alt="LangGraph" /> <img src="./assets/icon-mcp.svg" width="48" height="48" alt="MCP" /><br/><img src="https://img.shields.io/badge/Embeddings-121936?style=flat-square" alt="Embeddings" /> <img src="https://img.shields.io/badge/LLM%20APIs-121936?style=flat-square" alt="LLM APIs" />
 </td>
 </tr>
 <tr>
