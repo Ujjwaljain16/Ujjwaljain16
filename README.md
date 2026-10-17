@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Ujjwal Jain: backend, databases, GenAI. Open to internships and roles." />
+<a href="mailto:jainujjwal1609@gmail.com"><img src="./assets/open-pill.svg" width="340" alt="Open to internships and roles. Click to email." /></a>
+
+<img src="./assets/hero.svg" width="100%" alt="Ujjwal Jain: backend, databases, GenAI." />
 
 <br/>
 
@@ -11,6 +13,12 @@
 <br/><br/>
 
 <img src="./assets/terminal.svg" width="100%" alt="Terminal session. whoami: Ujjwal Jain, CS undergrad at BITS Pilani. Focus: backend, database internals, distributed systems, GenAI. Exploring: Go distributed systems, storage engines, RAG retrieval. Philosophy: build it from scratch, measure it, publish the number you got." />
+
+<br/><br/>
+
+<h3>measured, not claimed</h3>
+
+<a href="https://ujjwaljain.vercel.app/"><img src="./assets/receipts.svg" width="100%" alt="Benchmarks. CampusSlot overlap query at 200,000 bookings: 2,469 pages read before, 30 after a GiST index. Fuze semantic search p50 latency: 3,026 ms to 1,661 ms at best run, 45 percent faster, about 900 ms still unexplained." /></a>
 
 <br/><br/>
 
