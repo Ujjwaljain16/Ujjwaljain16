@@ -23,9 +23,52 @@
 
 <br/><br/>
 
-<h3>stack</h3>
+<h3>technical skills</h3>
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,go,react,nextjs,tailwind,nodejs,express,fastapi,flask,spring,postgres,mysql,mongodb,redis,supabase,docker,git,prometheus,postman&perline=11&theme=dark" alt="Tech stack" />
+<table>
+<tr>
+<td align="right" valign="middle" nowrap><b>Languages</b></td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,go&perline=5&theme=dark" alt="py, ts, js, java, go" /><br/><img src="https://img.shields.io/badge/SQL-121936?style=flat-square" alt="SQL" />
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle" nowrap><b>Backend &amp; Web</b></td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,nextjs,react,tailwind,spring&perline=8&theme=dark" alt="fastapi, flask, nodejs, express, nextjs, react, tailwind, spring" /><br/><img src="https://img.shields.io/badge/REST%20APIs-121936?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/RQ-121936?style=flat-square" alt="RQ" />
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle" nowrap><b>Databases</b></td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase&perline=6&theme=dark" alt="postgres, mysql, sqlite, mongodb, redis, supabase" />
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle" nowrap><b>AI &amp; Retrieval</b></td>
+<td align="left" valign="middle">
+<img src="https://img.shields.io/badge/Embeddings-121936?style=flat-square" alt="Embeddings" /> <img src="https://img.shields.io/badge/MCP-121936?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/LLM%20APIs-121936?style=flat-square" alt="LLM APIs" /> <img src="https://img.shields.io/badge/LangChain-121936?style=flat-square" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-121936?style=flat-square" alt="LangGraph" />
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle" nowrap><b>Security</b></td>
+<td align="left" valign="middle">
+<img src="https://img.shields.io/badge/RBAC-121936?style=flat-square" alt="RBAC" /> <img src="https://img.shields.io/badge/PostgreSQL%20RLS-121936?style=flat-square" alt="PostgreSQL RLS" /> <img src="https://img.shields.io/badge/JWT%2FJWS-121936?style=flat-square" alt="JWT/JWS" /> <img src="https://img.shields.io/badge/W3C%20Verifiable%20Credentials-121936?style=flat-square" alt="W3C Verifiable Credentials" /> <img src="https://img.shields.io/badge/Trivy-121936?style=flat-square" alt="Trivy" /> <img src="https://img.shields.io/badge/Gitleaks-121936?style=flat-square" alt="Gitleaks" />
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle" nowrap><b>DevOps &amp; Cloud</b></td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,linux,git&perline=7&theme=dark" alt="docker, kubernetes, terraform, aws, githubactions, linux, git" /><br/><img src="https://img.shields.io/badge/Helm-121936?style=flat-square" alt="Helm" /> <img src="https://img.shields.io/badge/Argo%20CD-121936?style=flat-square" alt="Argo CD" /> <img src="https://img.shields.io/badge/CI%2FCD-121936?style=flat-square" alt="CI/CD" />
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle" nowrap><b>Testing &amp; Observability</b></td>
+<td align="left" valign="middle">
+<img src="https://skillicons.dev/icons?i=vitest,jest,postman,prometheus,grafana&perline=5&theme=dark" alt="vitest, jest, postman, prometheus, grafana" /><br/><img src="https://img.shields.io/badge/pytest-121936?style=flat-square" alt="pytest" /> <img src="https://img.shields.io/badge/Loki-121936?style=flat-square" alt="Loki" />
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
