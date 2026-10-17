@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 112" width="320" height="112" role="img" aria-label="Merged pull request #9214 in vitest-dev/vitest">
+<title>vitest-dev/vitest #9214 (merged)</title>
+<rect x=".75" y=".75" width="318.5" height="110.5" rx="14" fill="#121936" stroke="#2B3563" stroke-width="1.5"/>
+<rect x="222" y="16" width="84" height="26" rx="13" fill="#8957E5"/>
+<g transform="translate(234 23)" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round"><circle cx="3" cy="2.5" r="2.2"/><circle cx="3" cy="11.5" r="2.2"/><circle cx="11" cy="7" r="2.2"/><path d="M3 4.7V9.3M5 2.5C8.5 2.5 11 3.5 11 4.8"/></g>
+<text x="252" y="34" font-family="ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="700" fill="#fff" textLength="47" lengthAdjust="spacing">merged</text>
+<text x="22" y="70" font-family="ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="20" font-weight="700" fill="#E8ECFF" textLength="204" lengthAdjust="spacing">vitest-dev/vitest</text>
+<text x="22" y="96" font-family="ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="18" fill="#FFB454" textLength="54" lengthAdjust="spacing">#9214</text>
+</svg>

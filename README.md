@@ -1,156 +1,46 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ujjwal+Jain;CS+Undergrad+%7C+Backend-Focused+Engineer;Designing+Scalable+Systems+%26+Clean+APIs" alt="Typing SVG" />
-  
-  <br/><br/>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-jain-306b60323/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainujjwal1609@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjwaljain16)
 
+<img src="./assets/hero.svg" width="100%" alt="Ujjwal Jain: backend, databases, systems. Open to internships and roles." />
 
-  <br/>
-  <i>Computer Science undergrad • OSS Contributor</i>
-</div>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/ujjwal-jain-306b60323/"><img src="https://img.shields.io/badge/LinkedIn-121936?style=for-the-badge&logo=linkedin&logoColor=5B8CFF" alt="LinkedIn" /></a>
+<a href="mailto:jainujjwal1609@gmail.com"><img src="https://img.shields.io/badge/Email-121936?style=for-the-badge&logo=gmail&logoColor=FFB454" alt="Email" /></a>
+<a href="https://github.com/Ujjwaljain16"><img src="https://img.shields.io/badge/GitHub-121936?style=for-the-badge&logo=github&logoColor=E8ECFF" alt="GitHub" /></a>
 
-## About Me
+<br/><br/>
 
-I'm a Computer Science student who genuinely enjoys building systems from the scratch especially the data models, edge cases, failure handling, and performance trade-offs.
+<img src="./assets/terminal.svg" width="100%" alt="Terminal session. whoami: Ujjwal Jain, CS undergrad at BITS Pilani. Focus: backend, database internals, distributed systems, ML systems. Exploring: Go distributed systems, storage engines, RAG retrieval. Merged: apache/superset #37982, vitest-dev/vitest #9213 and #9214. Philosophy: build it from scratch, then break it on purpose." />
 
-Backend is where I feel most at home designing APIs, structuring databases, and scalability.
+<br/><br/>
 
-Focused on backend systems, database design, and architecture.
+<h3>a b+ tree, mid-query</h3>
 
-I care about understanding *why* systems behave the way they do.
-Currently looking for **Summer 2026 internships** where I can learn from strong engineers, contribute meaningfully, and grow into a solid backend developer.
+<img src="./assets/bplustree.svg" width="100%" alt="Animated B+ tree. A lookup for id 45 descends root, internal node, leaf in 3 page reads. A range scan to 65 then follows the linked leaf pages sideways." />
 
----
+<br/><br/>
 
-## Currently Exploring
+<h3>open source</h3>
 
-- Building microservices in Go to better understand distributed systems behavior  
-- Diving deep into Database internals & architecture
-- Learning System Design (LLD + HLD)
-- Contributing to open-source projects when I can  
+<a href="https://github.com/apache/superset/pull/37982"><img src="./assets/pr-superset-37982.svg" width="32%" alt="apache/superset #37982, merged" /></a>
+<a href="https://github.com/vitest-dev/vitest/pull/9213"><img src="./assets/pr-vitest-9213.svg" width="32%" alt="vitest-dev/vitest #9213, merged" /></a>
+<a href="https://github.com/vitest-dev/vitest/pull/9214"><img src="./assets/pr-vitest-9214.svg" width="32%" alt="vitest-dev/vitest #9214, merged" /></a>
 
----
+<br/><br/>
 
-## Tech I Work With
+<h3>stack</h3>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,go,react,nextjs,tailwind,nodejs,express,fastapi,flask,spring,postgres,mysql,mongodb,redis,supabase,docker,git,prometheus,postman&perline=11&theme=dark" alt="Tech stack" />
 
-### Languages
-![Java](https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript)
-![Go](https://img.shields.io/badge/Go-1E1E1E?style=for-the-badge&logo=go)
+<br/><br/>
 
-### Frontend
-![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss)
-![React Native](https://img.shields.io/badge/React_Native-1E1E1E?style=for-the-badge&logo=react)
+<h3>numbers</h3>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-1E1E1E?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-1E1E1E?style=for-the-badge&logo=flask)
-![Spring](https://img.shields.io/badge/Spring-1E1E1E?style=for-the-badge&logo=spring)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ujjwaljain16&show_icons=true&hide_border=false&border_radius=14&count_private=true&bg_color=0B1024&border_color=2B3563&title_color=5B8CFF&text_color=C9D2FF&icon_color=FFB454" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ujjwaljain16&layout=compact&langs_count=8&hide_border=false&border_radius=14&bg_color=0B1024&border_color=2B3563&title_color=5B8CFF&text_color=C9D2FF" alt="Top languages" />
 
-### Databases & More
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-1E1E1E?style=for-the-badge&logo=redis)
-![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase)
+<br/><br/>
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-1E1E1E?style=for-the-badge&logo=postman)
+<img src="./assets/footer.svg" width="100%" alt="still learning, still building" />
 
-</div>
-
----
-
-## Projects I’m Proud Of
-
-### HTTP Server - From Scratch
-
-A multi-threaded HTTP/1.1 server built using raw sockets to understand how servers actually handle requests and connections.
-
-**Highlights**
-
-- Persistent connections with concurrent request handling  
-- Basic rate limiting and path traversal protection  
-- Prometheus metrics and structured logging for observability  
-
-This project was mainly an exploration of how networking, concurrency, and request lifecycles work under the hood.
-
----
-
-### migrateDB - Database Migration Tool
-
-A small TypeScript-based migration tool built to understand how schema changes are managed safely in real systems.
-
-**Highlights**
-
-- Transaction-based migrations with rollback support  
-- Dependency resolution using topological sorting  
-- Migration locking and checksum validation  
-- Support for multiple databases
-
----
-
-### CampusSync - Certificate Verification Platform
-
-A multi-tenant system designed to help universities manage and verify digital certificates.
-
-**Highlights**
-
-- OCR-based certificate data extraction  
-- Cryptographic signing using Ed25519  
-- Row-level security for tenant isolation  
-- REST APIs for issuance, verification, and revocation
-
-This project helped me learn a lot about database design, security boundaries, and building larger backend systems.
-
----
-
-### Fuze - Knowledge Retrieval System
-
-A system built to experiment with semantic search and structured knowledge retrieval.
-
-**Highlights**
-
-- Vector embeddings for semantic search  
-- Multi-source information indexing  
-- Recommendation experiments using contextual signals
-
-Built mainly to explore how retrieval systems and knowledge organization can work together.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ujjwaljain16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ujjwaljain16&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-## Let’s Connect
-
-📧 **jainujjwal1609@gmail.com**  
-💼 [LinkedIn → Ujjwal Jain](https://www.linkedin.com/in/ujjwal-jain-306b60323/)  
-🐙 [@Ujjwaljain16](https://github.com/Ujjwaljain16)
-
----
-
-<div align="center"> 
-  <br/>
-  Still learning, still building.
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ujjwaljain16.Ujjwaljain16) 
-[![](https://visitcount.itsvg.in/api?id=ujjwaljain16&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </div>
