@@ -8,13 +8,11 @@
 <a href="https://www.linkedin.com/in/ujjwal-jain-306b60323/"><img src="https://img.shields.io/badge/LinkedIn-121936?style=for-the-badge&logo=linkedin&logoColor=5B8CFF" alt="LinkedIn" /></a>
 <a href="mailto:jainujjwal1609@gmail.com"><img src="https://img.shields.io/badge/Email-121936?style=for-the-badge&logo=gmail&logoColor=FFB454" alt="Email" /></a>
 
-<br/><br/>
-
 <img src="./assets/terminal.svg" width="100%" alt="Terminal session. whoami: Ujjwal Jain, CS undergrad at BITS Pilani. Focus: backend, database internals, distributed systems, GenAI. Exploring: Go distributed systems, storage engines, RAG retrieval. Philosophy: build it from scratch, measure it, publish the number you got." />
 
 <h3>measured, not claimed</h3>
 
-<a href="https://www.ujjwaljain16.me/"><img src="./assets/receipts.svg" width="100%" alt="Benchmarks. CampusSlot overlap query at 200,000 bookings: 2,469 pages read before, 30 after a GiST index. Fuze semantic search p50 latency: 3,026 ms to 1,661 ms at best run, 45 percent faster, about 900 ms still unexplained." /></a>
+<a href="https://www.ujjwaljain16.me/"><img src="./assets/receipts.svg" width="100%" alt="Benchmarks. CampusSlot overlap query at 200,000 bookings: 2,469 pages read before, 30 after a GiST index. Fuze semantic search p50 latency: 3,026 ms to 1,661 ms at best run, 45 percent faster, about 900 ms still unexplained. CampusSlot bad-release drill: automatic rollback at 62 s, 0 of 4,800 user requests failed." /></a>
 
 <h3>upstream: 15 merged PRs</h3>
 
