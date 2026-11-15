@@ -18,7 +18,7 @@
 <text x="62" y="240" font-family="ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#8791B8" textLength="470" lengthAdjust="spacing">i care about why systems behave the way they do.</text>
 <g transform="translate(60 282)" fill="none" stroke="#9B7BFF" stroke-width="1.8" stroke-linecap="round">
 <circle cx="4" cy="3" r="3"/><circle cx="4" cy="19" r="3"/><circle cx="18" cy="11" r="3"/><path d="M4 6V16M7 3C13 3 18 5 18 8"/></g>
-<text x="90" y="299" font-family="ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#8791B8" textLength="477" lengthAdjust="spacing">13 merged PRs: superset, vitest, appwrite, hypergraph</text>
+<text x="90" y="299" font-family="ui-monospace, 'SF Mono', SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#8791B8" textLength="468" lengthAdjust="spacing">15 merged PRs: superset, kubernetes, vitest, appwrite</text>
 </g>
 
 <g transform="translate(0 -20)">
