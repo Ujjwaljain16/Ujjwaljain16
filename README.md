@@ -20,41 +20,48 @@
 
 <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AUjjwaljain16+-user%3AUjjwaljain16"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/upstream-light.svg" /><img src="./assets/upstream.svg" width="100%" alt="15 merged pull requests upstream. apache/superset: 9, RLS cache isolation, permission migration, key rotation. kubernetes-sigs/gateway-api: 2, conformance suite fixes. vitest-dev/vitest: 2. appwrite/appwrite: 1, MFA recovery-code validation. metacoglabs/hypergraph: 1, WAL recovery." /></picture></a>
 
-<h3>field notes</h3>
+<h3>writing</h3>
 
 <div align="left">
 
 <p>
-<a href="https://github.com/Ujjwaljain16/fuze/blob/main/docs/perf/README.md#where-the-time-goes"><b>The query takes 2 ms. The call takes 1,138.</b></a> <sub>· Fuze</sub><br/>
-<sub>Profiling a live semantic search: what I ruled out, what is left, and the fix I would ship next.</sub>
+<a href="https://medium.com/@jainujjwal1609/why-postgresql-ignored-my-gist-index-until-i-rewrote-the-overlap-query-feb971225225"><b>Why PostgreSQL Ignored My GiST Index Until I Rewrote the Overlap Query</b></a> <sub>· Oct 2026 · PostgreSQL</sub><br/>
+<sub>200,000 bookings, one “is this room free?” query, and a full table scan until the query changed shape.</sub>
 </p>
 
 <p>
-<a href="https://github.com/Ujjwaljain16/campusslot/blob/main/docs/engineering/bad-release-drill.md"><b>Breaking a release on purpose</b></a> <sub>· CampusSlot</sub><br/>
-<sub>Helm rolled back at 62 s and 0 of 4,800 user requests failed; without --atomic, a human had to step in.</sub>
+<a href="https://medium.com/@jainujjwal1609/i-found-a-weird-number-on-instagram-and-it-turned-into-a-system-design-lesson-227d4fa533f2"><b>I Found a Weird Number on Instagram, and It Turned Into a System Design Lesson</b></a> <sub>· Sep 2026 · system design</sub><br/>
+<sub>The profile showed one following count and the HTML another. Tracing why.</sub>
 </p>
 
 <p>
-<a href="https://github.com/Ujjwaljain16/campusslot/blob/main/docs/engineering/data-scale.md"><b>Does it stay fast when the table grows?</b></a> <sub>· CampusSlot</sub><br/>
-<sub>2,469 pages read per overlap query at 200K rows, down to 30 with a range type and a GiST index.</sub>
+<a href="https://medium.com/@jainujjwal1609/anatomy-of-a-colab-disaster-how-a-fashion-mnist-assignment-turned-into-a-lesson-on-fault-bf9cb794ec4e"><b>Anatomy of a Colab Disaster</b></a> <sub>· Jun 2026 · MLOps</sub><br/>
+<sub>A Fashion-MNIST assignment that became a lesson in fault tolerance, identity design and performance.</sub>
 </p>
 
 <p>
-<a href="https://github.com/Ujjwaljain16/campusslot/blob/main/docs/engineering/performance.md"><b>What limits one backend pod</b></a> <sub>· CampusSlot</sub><br/>
-<sub>Throttled 96 to 100% at 500m CPU; 1000m made it 2.2x faster, and a second worker made it worse.</sub>
+<a href="https://medium.com/@jainujjwal1609/i-shipped-a-pwa-and-it-broke-in-ways-i-didnt-expect-here-s-what-i-wish-i-knew-a40fbd2ae99d"><b>I Shipped a PWA and It Broke in Ways I Didn’t Expect</b></a> <sub>· Mar 2026 · service workers</sub><br/>
+<sub>Stale caches and the bug users swore was still there after the fix shipped.</sub>
 </p>
 
 <p>
-<a href="https://github.com/apache/superset/pull/44142"><b>Deleting 39 permissions without breaking anyone's roles</b></a> <sub>· Apache Superset</sub><br/>
-<sub>29 remapped, 10 deleted, 4 of them because a remap would have silently granted write access.</sub>
+<a href="https://medium.com/@jainujjwal1609/your-tabs-are-none-of-my-servers-business-building-vaulttabs-and-the-engineering-tradeoffs-behind-417565293e15"><b>Your Tabs Are None of My Server’s Business</b></a> <sub>· Feb 2026 · cryptography</sub><br/>
+<sub>Building zero-knowledge tab sync: client-side cryptography, MV3 survival tactics and the tradeoffs.</sub>
 </p>
 
 <p>
-<a href="https://github.com/Ujjwaljain16/MiniDB/blob/main/MiniDB_Projects/Team_ARIES_Recovery/docs/Architecture.md"><b>A relational database from scratch</b></a> <sub>· MiniDB, 2-person capstone</sub><br/>
-<sub>ARIES recovery, strict 2PL, B+ trees and vectorized execution, and the tradeoffs between them.</sub>
+<a href="https://medium.com/@jainujjwal1609/the-idea-fit-in-20-lines-making-it-correct-took-over-200-982e44dff61b"><b>The Idea Fit in 20 Lines. Making It Correct Took Over 200.</b></a> <sub>· Feb 2026 · testing</sub><br/>
+<sub>Algorithmic complexity versus integration complexity, and why the second one is harder.</sub>
+</p>
+
+<p>
+<a href="https://medium.com/@jainujjwal1609/when-turned-into-%C3%B0-a-deep-dive-into-base64-unicode-and-a-silent-javascript-bug-85be48bec797"><b>When 👍 Turned Into ð</b></a> <sub>· Feb 2026 · debugging</sub><br/>
+<sub>UTF-8 bytes read as UTF-16: how a file name broke silently in stack traces, via Base64 and Unicode.</sub>
 </p>
 
 </div>
+
+<a href="https://medium.com/@jainujjwal1609"><img src="https://img.shields.io/badge/All%20posts%20on%20Medium-121936?style=for-the-badge&logo=medium&logoColor=FFB454" alt="All posts on Medium" /></a>
 
 <h3>stack</h3>
 
